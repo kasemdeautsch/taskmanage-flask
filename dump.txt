@@ -77,3 +77,7 @@
 //     console.log("modals...", md);
 //      M.Modal.init(md);
 //   });
+---------------------
+
+
+# os.environ.setdefault("DB_URL", "postgresql:///taskmanager")
